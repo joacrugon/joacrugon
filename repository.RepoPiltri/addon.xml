@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.RepoPiltri" name="Los Piltris Repository" version="1.1.0" provider-name="joacrugon">
+    <extension point="xbmc.addon.repository" name="joacrugon Alpha Repository">
+        <dir>
+            <info compressed="false">https://joacrugon.ddns.net/kodi/repositorio/addons.xml</info>
+            <checksum>https://joacrugon.ddns.net/kodi/repositorio/addons.xml.md5</checksum>
+            <datadir zip="true">https://joacrugon.ddns.net/kodi/repositorio/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>joacrugon Alpha Repository</summary>
+        <description>Un repositorio local y personal de joacrugon para addons de Kodi.</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
