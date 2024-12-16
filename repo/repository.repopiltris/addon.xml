@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.repopiltris" name="Los Piltris Repository" version="1.1.0" provider-name="joacrugon">
+<addon id="repository.repopiltris" name="Los Piltris Repository" version="1.1.1" provider-name="joacrugon">
     <extension point="xbmc.addon.repository" name="joacrugon Alpha Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/joacrugon/repo/main/repo/addons.xml</info>
